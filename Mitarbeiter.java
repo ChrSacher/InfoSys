@@ -1,12 +1,16 @@
 package InfoSys;
 
 public class Mitarbeiter {
-	String id;
-	String name;
+	private final String mId;
+	String mName;
 
 	public Mitarbeiter(String mId, String mName) {
-		id = mId;
-		name = mName;
+		this.mId = mId;
+		this.mName = mName;
+	}
+
+	public void getId() {
+
 	}
 
 }

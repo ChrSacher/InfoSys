@@ -11,7 +11,7 @@ public class Lagerverwaltung {
 		return berechtigteMitarbeitere;
 	}
 
-	Lagerverwaltung() {
+	public Lagerverwaltung() {
 
 	}
 

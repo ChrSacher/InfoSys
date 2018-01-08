@@ -1,16 +1,30 @@
 package InfoSys;
 
+/**
+ * Mitarbeiter Constructor
+ * 
+ * @author dieu huyen
+ *
+ */
 public class Mitarbeiter {
-	private final String mId;
-	String mName;
-
-	public Mitarbeiter(String mId, String mName) {
-		this.mId = mId;
-		this.mName = mName;
+	public String getName() {
+		return name;
 	}
 
-	public void getId() {
+	public void setName(String name) {
+		this.name = name;
+	}
 
+	public String getId() {
+		return id;
+	}
+
+	private final String id;
+	private String name;
+
+	public Mitarbeiter(String id, String name) {
+		this.id = id;
+		this.name = name;
 	}
 
 }

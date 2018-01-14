@@ -2,7 +2,8 @@ package InfoSys;
 
 import java.util.ArrayList;
 
-public class Start {
+public class Start 
+{
 
 	public static void main(String[] args) 
 	{
@@ -17,7 +18,7 @@ public class Start {
 	    verwaltung.berechtigungErteilen(peter);
 	    verwaltung.wareneingangBuchen(peter, cola, 20, 36.50);
 	    verwaltung.wareneingangBuchen(peter, fanta, 10, 16.50);
-	    verwaltung.wareneingangBuchen(peter, fanta, 10, 16.50);
+	    verwaltung.wareneingangBuchen(peter, fanta, 25, 16.50);
 	    verwaltung.berechtigungZurueckziehen(peter);
 	    verwaltung.wareneingangBuchen(peter, fanta, 10, 16.50);
 	    

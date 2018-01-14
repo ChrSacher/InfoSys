@@ -13,11 +13,19 @@ public class Artikel
 	    id = newId;
 	    setData(newName,newBeschreibung);
         }
-
+	/*
+	 * Variable, die den Artikel identifiezirt
+	 */
 	private final String id;
 	
+	/*
+	 * Name des Artikels
+	 */
 	private String name = "ERROR";
 	
+	/*
+	 * Beschreibung des Artikels
+	 */
 	private String beschreibung = "ERROR";
 	
 	

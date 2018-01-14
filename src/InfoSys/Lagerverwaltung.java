@@ -98,6 +98,7 @@ public class Lagerverwaltung
     {
 	berechtigteMitarbeiter.add(mitarbeiter.getId());
 	Date datum = new Date();
+	
 	writer.println("Berechtigung erteilt an "+ mitarbeiter.getId() +  " " + mitarbeiter.getName() + " am "  + datum.toString());
 	writer.flush();
     }
@@ -109,12 +110,13 @@ public class Lagerverwaltung
     {
 	berechtigteMitarbeiter.remove(mitarbeiter.getId());
 	Date datum = new Date();
+	
 	writer.println("Berechtigung entzogen von "+ mitarbeiter.getId() +  " " + mitarbeiter.getName() + " am "  + datum.toString());
 	writer.flush();
     }
 
     /**
-     * Gibt den Lagerbestand auf der Console aus, im Format Artikelname | Anzahl im Lager
+     * Gibt den Lagerbestand auf der Console aus, im Format Artikelname | Anzahl im Lager | Preis
      */
     public void lagerbestandAusgeben()
     {
@@ -137,23 +139,30 @@ public class Lagerverwaltung
      */
     public void wareneingangBuchen(Mitarbeiter mitarbeiter, Artikel artikel, int anzahl, double preis)
     {
+	//wenn der Mitarbeiter keine Rechte hat -> abbrechen
 	if (!berechtigteMitarbeiter.contains(mitarbeiter.getId()))
 	{
 	    writer.println("Mitarbeiter " + mitarbeiter.getId() + " hat nicht die Berechtigung zum buchen von Artikeln.");
 	    writer.flush();
 	    return;
 	}
-	    
+	  
+	//Überprüfen ob der Artikel bereits im Lager vorhanden ist
 	Lagerposten artikelLager = lagerListe.get(artikel.getId());
 	if (artikelLager == null)
 	{
+	    //Artikel ist noch nicht im Lager
 	    artikelLager = new Lagerposten(artikel, anzahl, preis);
 	    lagerListe.put(artikel.getId(), artikelLager);
-	} else
+	} 
+	else
 	{
+	    //Artikel ist im Lager
 	    artikelLager.setLagerbestand(artikelLager.getLagerbestand() + anzahl);
 	    artikelLager.setPreis(artikelLager.getPreis() + preis);
 	}
+	
+	
 	Date datum = new Date();
 	writer.println("Wareneingang gebucht von "+ mitarbeiter.getId() +" " + anzahl + "x " + artikel.getId() +  " für "  + preis + " am "  + datum.toString());
 	writer.flush();
@@ -176,6 +185,7 @@ public class Lagerverwaltung
 	//Überprüfen ob alle Bestellungen ausführbar sind 
 	for (Bestellposten posten : bestellung)
 	{
+	    //Wenn der Artikel nicht im Lager ist oder weniger als gefordert vorhanden sind , dann wird die Bestellung abgelehnt
 	    Lagerposten artikelLager = lagerListe.get(posten.getArtikelID());
 	    if (artikelLager == null || artikelLager.getLagerbestand() < posten.getAnzahl())
 		return new Bestellbestaetigung(false, 0);
@@ -206,6 +216,7 @@ public class Lagerverwaltung
 	    writer.println("Bestellung von " + posten.getAnzahl() + "x " + artikelLager.getArtikel().getName() + " am " + datum.toString());
 	    writer.flush();
 	}
+	//Die Artikel konnten bestellt werden und komplettPreis beinhaltet den kompletten Preis
 	return new Bestellbestaetigung(true, komplettPreis);
     }
 

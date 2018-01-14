@@ -9,7 +9,9 @@ package InfoSys;
 public class Bestellbestaetigung 
 {
     private final boolean ausgefuehrt;
+    
     private final double gesamtPreis;
+    
     public Bestellbestaetigung(boolean ausgefuehrt, double gesamtPreis)
     {
 	this.ausgefuehrt = ausgefuehrt;

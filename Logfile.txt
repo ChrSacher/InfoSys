@@ -1,47 +1,40 @@
 Mitarbeiter peter hat nicht die Berechtigung zum buchen von Artikeln.
-Berechtigung erteilt an peter Peter am Mon Jan 08 17:04:43 CET 2018
-Wareneingang gebucht von peter 20x cola für 36.5 am Mon Jan 08 17:04:43 CET 2018
-Wareneingang gebucht von peter 10x fanta für 16.5 am Mon Jan 08 17:04:43 CET 2018
-Wareneingang gebucht von peter 10x fanta für 16.5 am Mon Jan 08 17:04:43 CET 2018
-Berechtigung entzogen von peter Peter am Mon Jan 08 17:04:43 CET 2018
+Berechtigung erteilt an peter Peter am Thu Jan 11 17:02:57 CET 2018
+Wareneingang gebucht von peter 20x cola für 36.5 am Thu Jan 11 17:02:57 CET 2018
+Wareneingang gebucht von peter 10x fanta für 16.5 am Thu Jan 11 17:02:57 CET 2018
+Wareneingang gebucht von peter 10x fanta für 16.5 am Thu Jan 11 17:02:57 CET 2018
+Berechtigung entzogen von peter Peter am Thu Jan 11 17:02:57 CET 2018
 Mitarbeiter peter hat nicht die Berechtigung zum buchen von Artikeln.
+Berechtigung erteilt an peter Peter am Thu Jan 11 17:02:57 CET 2018
+Bestellung von 20x Coca Cola am Thu Jan 11 17:02:57 CET 2018
+Bestellung von 20x Fanta am Thu Jan 11 17:02:57 CET 2018
 Mitarbeiter peter hat nicht die Berechtigung zum buchen von Artikeln.
-Berechtigung erteilt an peter Peter am Thu Jan 11 16:45:18 CET 2018
-Wareneingang gebucht von peter 20x cola für 36.5 am Thu Jan 11 16:45:18 CET 2018
-Wareneingang gebucht von peter 10x fanta für 16.5 am Thu Jan 11 16:45:18 CET 2018
-Wareneingang gebucht von peter 10x fanta für 16.5 am Thu Jan 11 16:45:18 CET 2018
-Berechtigung entzogen von peter Peter am Thu Jan 11 16:45:18 CET 2018
+Berechtigung erteilt an peter Peter am Sat Jan 13 22:18:09 CET 2018
+Wareneingang gebucht von peter 20x cola für 36.5 am Sat Jan 13 22:18:09 CET 2018
+Wareneingang gebucht von peter 10x fanta für 16.5 am Sat Jan 13 22:18:09 CET 2018
+Wareneingang gebucht von peter 10x fanta für 16.5 am Sat Jan 13 22:18:09 CET 2018
+Berechtigung entzogen von peter Peter am Sat Jan 13 22:18:09 CET 2018
 Mitarbeiter peter hat nicht die Berechtigung zum buchen von Artikeln.
-Berechtigung erteilt an peter Peter am Thu Jan 11 16:45:18 CET 2018
-Bestellung von 20x Coca Cola am Thu Jan 11 16:45:18 CET 2018
-Bestellung von 20x Fanta am Thu Jan 11 16:45:18 CET 2018
+Berechtigung erteilt an peter Peter am Sat Jan 13 22:18:09 CET 2018
+Bestellung von 20x Coca Cola am Sat Jan 13 22:18:09 CET 2018
+Bestellung von 20x Fanta am Sat Jan 13 22:18:09 CET 2018
 Mitarbeiter peter hat nicht die Berechtigung zum buchen von Artikeln.
-Berechtigung erteilt an peter Peter am Thu Jan 11 16:47:13 CET 2018
-Wareneingang gebucht von peter 20x cola für 36.5 am Thu Jan 11 16:47:13 CET 2018
-Wareneingang gebucht von peter 10x fanta für 16.5 am Thu Jan 11 16:47:13 CET 2018
-Wareneingang gebucht von peter 10x fanta für 16.5 am Thu Jan 11 16:47:13 CET 2018
-Berechtigung entzogen von peter Peter am Thu Jan 11 16:47:13 CET 2018
+Berechtigung erteilt an peter Peter am Sat Jan 13 22:19:39 CET 2018
+Wareneingang gebucht von peter 20x cola für 36.5 am Sat Jan 13 22:19:39 CET 2018
+Wareneingang gebucht von peter 10x fanta für 16.5 am Sat Jan 13 22:19:39 CET 2018
+Wareneingang gebucht von peter 15x fanta für 16.5 am Sat Jan 13 22:19:39 CET 2018
+Berechtigung entzogen von peter Peter am Sat Jan 13 22:19:39 CET 2018
 Mitarbeiter peter hat nicht die Berechtigung zum buchen von Artikeln.
-Berechtigung erteilt an peter Peter am Thu Jan 11 16:47:13 CET 2018
-Bestellung von 20x Coca Cola am Thu Jan 11 16:47:13 CET 2018
-Bestellung von 20x Fanta am Thu Jan 11 16:47:13 CET 2018
+Berechtigung erteilt an peter Peter am Sat Jan 13 22:19:39 CET 2018
+Bestellung von 20x Coca Cola am Sat Jan 13 22:19:39 CET 2018
+Bestellung von 20x Fanta am Sat Jan 13 22:19:39 CET 2018
 Mitarbeiter peter hat nicht die Berechtigung zum buchen von Artikeln.
-Berechtigung erteilt an peter Peter am Thu Jan 11 16:47:28 CET 2018
-Wareneingang gebucht von peter 20x cola für 36.5 am Thu Jan 11 16:47:28 CET 2018
-Wareneingang gebucht von peter 10x fanta für 16.5 am Thu Jan 11 16:47:28 CET 2018
-Wareneingang gebucht von peter 10x fanta für 16.5 am Thu Jan 11 16:47:28 CET 2018
-Berechtigung entzogen von peter Peter am Thu Jan 11 16:47:28 CET 2018
+Berechtigung erteilt an peter Peter am Sat Jan 13 22:19:50 CET 2018
+Wareneingang gebucht von peter 20x cola für 36.5 am Sat Jan 13 22:19:50 CET 2018
+Wareneingang gebucht von peter 10x fanta für 16.5 am Sat Jan 13 22:19:50 CET 2018
+Wareneingang gebucht von peter 25x fanta für 16.5 am Sat Jan 13 22:19:50 CET 2018
+Berechtigung entzogen von peter Peter am Sat Jan 13 22:19:50 CET 2018
 Mitarbeiter peter hat nicht die Berechtigung zum buchen von Artikeln.
-Berechtigung erteilt an peter Peter am Thu Jan 11 16:47:28 CET 2018
-Bestellung von 20x Coca Cola am Thu Jan 11 16:47:28 CET 2018
-Bestellung von 20x Fanta am Thu Jan 11 16:47:28 CET 2018
-Mitarbeiter peter hat nicht die Berechtigung zum buchen von Artikeln.
-Berechtigung erteilt an peter Peter am Thu Jan 11 16:57:50 CET 2018
-Wareneingang gebucht von peter 20x cola für 36.5 am Thu Jan 11 16:57:50 CET 2018
-Wareneingang gebucht von peter 10x fanta für 16.5 am Thu Jan 11 16:57:50 CET 2018
-Wareneingang gebucht von peter 10x fanta für 16.5 am Thu Jan 11 16:57:50 CET 2018
-Berechtigung entzogen von peter Peter am Thu Jan 11 16:57:50 CET 2018
-Mitarbeiter peter hat nicht die Berechtigung zum buchen von Artikeln.
-Berechtigung erteilt an peter Peter am Thu Jan 11 16:57:50 CET 2018
-Bestellung von 20x Coca Cola am Thu Jan 11 16:57:50 CET 2018
-Bestellung von 20x Fanta am Thu Jan 11 16:57:50 CET 2018
+Berechtigung erteilt an peter Peter am Sat Jan 13 22:19:50 CET 2018
+Bestellung von 20x Coca Cola am Sat Jan 13 22:19:50 CET 2018
+Bestellung von 20x Fanta am Sat Jan 13 22:19:50 CET 2018
